@@ -15,7 +15,8 @@ A collection of DSA problems solved as part of my learning journey.
 5. [Swap kth elements](https://www.geeksforgeeks.org/problems/swap-kth-elements5500/1)
    
 
-**Date:** 15 Sep 2026 (Sunday)
+
+**Date:** 15 Sep 2026 (Tuesday)
 
 6. [Even Odd Positions](https://www.geeksforgeeks.org/problems/find-the-fine4353/1)
 
